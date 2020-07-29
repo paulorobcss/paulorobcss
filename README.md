@@ -1,4 +1,4 @@
-### Hi there 👋 :bowtie:
+### Hi there :bowtie:
 
 Just an Engineering student learning code. ⚙
 
